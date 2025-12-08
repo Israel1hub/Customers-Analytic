@@ -7,3 +7,12 @@ A synthetic dataset for customers was generated from Chatgpt, spanning 2022 to 2
 
 ## About the Dataset 
 The dataset provided was from 2022 to 2025.It include various information on 1,000 customers offering insight into various aspect of customer recency, frequency and Monetary value, below are details about the dataset.
+
+- Scope : 1,000 customers
+- Timeframe : 2022 - 2025
+- Content: Detailed information on Customers,Transcation,Marketing and Web analytic
+- File type : CSV
+- Structure: 5 Tables
+- Dataset:Customers,Transcation,Marketing and Web analytic
+
+  ## Data Cleaning and Transformation 
