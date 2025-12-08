@@ -15,4 +15,6 @@ The dataset provided was from 2022 to 2025.It include various information on 1,0
 - Structure: 5 Tables
 - Dataset:Customers,Transcation,Marketing and Web analytic
 
-  ## Data Cleaning and Transformation 
+  ## Data Cleaning and Transformation
+  In preparation for customers analytic dataset, no necessary cleaning was done, as it was a cleaned dataset generated from Chatgpt but transformation was done to ensure consistency and usability.some include;
+- Calculated Recency, frequency and monetary value: using Dax to calculate each one of them 
