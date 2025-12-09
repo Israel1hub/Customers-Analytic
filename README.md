@@ -18,4 +18,9 @@ The dataset provided was from 2022 to 2025.It include various information on 1,0
   ## Data Cleaning and Transformation
   In preparation for customers analytic dataset, no necessary cleaning was done, as it was a cleaned dataset generated from Chatgpt but transformation was done to ensure consistency and usability.some include;
 - Calculated Recency, frequency and monetary value: using Dax to calculate each one of them;Recency shows how recently a customers had made a purchase, frequency shows how often a customer makes purchase while Monetary value tells how much a customer spends.
-- calculated Customer lifetime value: Used DAX to create CLV metric and further partitioning it for each customer to predict their total revenue or profit expected 
+- calculated Customer lifetime value: Used DAX to create CLV metric and further partitioning it for each customer to predict their total revenue or profit expected
+
+## Key Findings 
+
+<img  width="926" height="407" alt="Customers Analytic" src=href="https://github.com/Israel1hub/Customers-Analytic/blob/main/Customers%20analytic.png" />
+
