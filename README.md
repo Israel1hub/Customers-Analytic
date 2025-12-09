@@ -3,7 +3,7 @@ Analysis of Customers Analytic, highlighting customers purchasing behaviours,lif
 
 ## Introduction 
 
-A synthetic dataset for customers was generated from Chatgpt, spanning 2022 to 2025, to explore customers purchasing behaviour using RFM analysis and evaulating customers lifetime value which act as marketing techniques that helps to identify and segment their customer on the basis of their purchase behaviour and make maketing strategies for them.
+A synthetic dataset for customers was generated from Chatgpt, spanning 2022 to 2025, to explore customers purchasing behaviour using RFM analysis and evaulating customers lifetime value which act as marketing techniques that helps to identify and segment their customer on the basis of their purchasing behaviour and to make maketing strategies for them.
 
 ## About the Dataset 
 The dataset provided was from 2022 to 2025.It include various information on 1,000 customers offering insight into various aspect of customer recency, frequency and Monetary value, below are details about the dataset.
@@ -17,4 +17,5 @@ The dataset provided was from 2022 to 2025.It include various information on 1,0
 
   ## Data Cleaning and Transformation
   In preparation for customers analytic dataset, no necessary cleaning was done, as it was a cleaned dataset generated from Chatgpt but transformation was done to ensure consistency and usability.some include;
-- Calculated Recency, frequency and monetary value: using Dax to calculate each one of them 
+- Calculated Recency, frequency and monetary value: using Dax to calculate each one of them;Recency shows how recently a customers had made a purchase, frequency shows how often a customer makes purchase while Monetary value tells how much a customer spends.
+- calculated Customer lifetime value: Used DAX to create CLV metric and further partitioning it for each customer to predict their total revenue or profit expected 
