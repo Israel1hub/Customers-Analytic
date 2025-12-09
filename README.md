@@ -22,5 +22,7 @@ The dataset provided was from 2022 to 2025.It include various information on 1,0
 
 ## Key Findings 
 
-<img  width="926" height="407" alt="Customers Analytic" src=href="https://github.com/Israel1hub/Customers-Analytic/blob/main/Customers%20analytic.png" />
+<img  width="926" height="407" alt="Customers Analytic" src="https://github.com/Israel1hub/Customers-Analytic/blob/main/Customers%20analytic.png" />
+
+
 
