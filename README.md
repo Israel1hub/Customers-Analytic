@@ -1,5 +1,5 @@
 # Customer Analytics
-An analysis of customer data highlighting purchasing behaviors, lifetime value, and marketing strategies.
+
 
 ## Introduction 
 
