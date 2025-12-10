@@ -22,9 +22,10 @@ The dataset provided was from 2022 to 2025.It includes various information on 1,
 
 ## Key Findings 
 
-<img  width="926" height="407" alt="Customers Analytic" src="https://github.com/Israel1hub/Customers-Analytic/blob/main/Customers%20analytic.png" />
 
-<img  width="926" height="407" alt="Customers Analyticii" src="https://github.com/Israel1hub/Customers-Analytic/blob/main/customers%20analytic%20ii.png"/>
+<img  width="926" height="407" alt="Customers Analytic" src="https://github.com/Israel1hub/Customers-Analytic/blob/main/customer%20analytics%201.png"/>
+
+
 
 This customer analytics report reveals several critical insights:
 - 1,000 customers, which 472 are **active** and 528 are **churned**
